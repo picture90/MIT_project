@@ -8,7 +8,7 @@ https://gist.github.com/ihoneymon/652be052a0727ad59601
 
 
 <hr
-이미지 넣는법
+###이미지 넣는법
 <hr
 
 ![Alt text](/path/to/img.jpg "Optional title")
