@@ -4,7 +4,11 @@
 ##마크다운 작성법
 
 <hr
-https://gist.github.com/ihoneymon/652be052a0727ad59601
+
+
+https://gist.github.com/ihoneymon/652be052a0727ad59601#24-%EC%BD%94%EB%93%9Cprecodecodepre
+
+
 
 
 <hr
